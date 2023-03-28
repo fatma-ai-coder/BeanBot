@@ -39,7 +39,7 @@ body {
   margin-top: 8px;
 }
 
-.login-button {
+.coffee-bot-container button {
   border: none;
   padding: 15px 100px;
   background-color: #290001;
@@ -48,6 +48,12 @@ body {
   font-family: Lato, Arial;
   font-size: 16px;
   border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(41, 0, 1, 0.2);
+}
+
+.coffee-bot-container button:active {
+  background-color: #87431D;
+  box-shadow: none;
 }
 
 .sign-up-link {
