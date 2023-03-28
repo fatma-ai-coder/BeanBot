@@ -1,0 +1,71 @@
+body {
+  background-color: #DDC0A1;
+  width: auto;
+  font-family: Lato, Arial;
+  color: #290001;
+}
+
+.coffee-bot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  flex-direction: column;
+}
+
+.coffee-bot-logo {
+  height: 100pt;
+  margin-top: 70px;
+}
+
+.welcome-statement {
+  font-weight: 300;
+  color: white;
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.subtitle {
+  color: #87431D;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.login-button {
+  border: none;
+  padding: 15px 100px;
+  background-color: #290001;
+  color: #DDC0A1;
+  margin-top: 100px;
+  font-family: Lato, Arial;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.sign-up-link {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.sign-up-link a {
+  text-decoration: none;
+  color: #87431D;
+}
+
+.sign-up-link a:visited {
+  color: #87431D;
+}
+
+.sign-up-link a:hover {
+  color: white
+}
+
