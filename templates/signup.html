@@ -2,15 +2,16 @@
 <html>
   <head>
     <title>Sign up</title>
-    <link rel="stylesheet" href="styles/signup.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/signup.css')}}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
   </head>
   <body>
     <div class="header">
-      <div class="design-circle"></div>
-      <img src="assets/coffee-break.png 1.png" alt="">
+      <img src="{{ url_for('static', filename='assets/coffee-break.png 1.png')}}" alt="">
+      <div class="design-element-1"></div>
+      <div class="design-element-2"></div>
     </div>
     <div class="input-box-container">
       <h1 class="title">Sign up</h1>
