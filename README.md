@@ -74,7 +74,7 @@ A cross-platform application offering:
 ## 👩‍💻 Project Team
 
 ### Software & Systems
-- **Fatima Alamoudi** – Full Stack Developer  
+- **Fatima Alamoudi** – Full Stack Developer & Hardware Integrator  
 - **Riham Issa Ali** – Programmer  
 - **Judi Albaghajati** – Web Developer  
 - **Wid Hefni** – Machine Learning Engineer  
@@ -82,6 +82,7 @@ A cross-platform application offering:
 - **Layan Bashwih** – Game Developer  
 
 ### Hardware & Engineering
+- **Fatima Alamoudi** – Hardware Contributor & Robot Assembly  
 - **Omar Mahmoud**, **Hatem Almutairi** – Electrical and Computer Engineers  
 - **Odai Bakershoom**, **Mohammed Alghamdi** – Electrical Engineers  
 - **Omar Ahmed Alharbi**, **Ahmed Abdulrahman Alzahrani** – Mechanical Engineers  
