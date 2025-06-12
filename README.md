@@ -96,9 +96,3 @@ We extend our sincere gratitude to the instructors of *IED230* and the **KAUST S
 
 ---
 
-BeanBot/
-│
-├── /hardware/        # Arduino / circuit diagrams / CAD models
-├── /software/        # Mobile app + backend source code
-├── /images/          # Prototype photos and schematics
-└── README.md         # Project documentation
