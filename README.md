@@ -5,6 +5,17 @@ Developed under the KAUST Smart initiative | Spring 2023
 
 ---
 
+## 📁 What's in this repo
+
+This repo holds the **web app's login and sign-up screens** (Flask + HTML/CSS). The robot hardware and the full ordering system were built in the course but are not included here.
+
+```bash
+pip install flask
+python app.py   # then open http://127.0.0.1:5000
+```
+
+---
+
 ## 🚀 Project Overview
 
 **BeanBot** is a smart, semi-autonomous coffee delivery robot aimed at optimizing coffee service within workplace environments. Designed and developed during the *IED 230* course at KAUST, this project addresses key challenges in traditional café operations—such as long wait times and inefficient delivery—by combining innovative robotics with intuitive software.
